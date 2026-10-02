@@ -1,0 +1,102 @@
+category,name,price,ps+ availbelty
+freegames,Fortnite,0,included in ps+
+freegames,Roblox,0,included in ps+
+freegames,Rocket League,0,included in ps+
+freegames,Marvel Rivals,0,included in ps+
+freegames,eFootball,0,included in ps+
+freegames,Overwatch,0,included in ps+
+freegames,Apex Legends,0,included in ps+
+freegames,Genshin Impact,0,included in ps+
+freegames,Wuthering Waves,0,included in ps+
+freegames,Zenless Zone Zero,0,included in ps+
+freegames,War Thunder,0,included in ps+
+freegames,Once Human,0,included in ps+
+freegames,Rainbow Six Siege,0,included in ps+
+freegames,Asphalt Legends,0,included in ps+
+freegames,NTE: Neverness to Everness,0,included in ps+
+exclusive,God of War,19.99,included in ps+
+exclusive,God of War Ragnarök,69.99,included in ps+
+exclusive,Marvel's Spider-Man,39.99,
+exclusive,Marvel's Spider-Man: Miles Morales,49.99,included in ps+
+exclusive,Marvel's Spider-Man 2,69.99,included in ps+
+exclusive,The Last of Us Part I,69.99,
+exclusive,The Last of Us Part II,39.99,included in ps+
+exclusive,Ghost of Tsushima Director's Cut,69.99,included in ps+
+exclusive,Horizon Zero Dawn,49.99,
+exclusive,Horizon Forbidden West,59.99,
+exclusive,Bloodborne,19.99,included in ps+
+exclusive,Demon's Souls,69.99,
+exclusive,Gran Turismo 7,69.99,
+exclusive,Ratchet & Clank: Rift Apart,69.99,
+exclusive,Returnal,69.99,included in ps+
+exclusive,ASTRO BOT,59.99,
+exclusive,ASTRO's PLAYROOM,Free,
+exclusive,Uncharted: The Nathan Drake Collection,19.99,
+exclusive,Uncharted: Legacy of Thieves Collection,49.99,
+exclusive,Days Gone,49.99,
+exclusive,Until Dawn,59.99,
+exclusive,Death Stranding,29.99,included in ps+
+exclusive,Death Stranding 2: On the Beach,69.99,
+exclusive,Stellar Blade,69.99,
+exclusive,Rise of the Ronin,69.99,
+exclusive,Sackboy: A Big Adventure,59.99,included in ps+
+exclusive,Dreams,39.99,
+exclusive,The Last Guardian,19.99,
+exclusive,inFAMOUS Second Son,19.99,
+third_game,Grand Theft Auto V,39.99,
+third_game,Red Dead Redemption 2,59.99,included in ps+
+third_game,Cyberpunk 2077,49.99,
+third_game,Elden Ring,59.99,
+third_game,Hogwarts Legacy,59.99,
+third_game,Assassin's Creed Shadows,69.99,
+third_game,Assassin's Creed Mirage,49.99,
+third_game,Resident Evil 4,39.99,
+third_game,Resident Evil Village,39.99,
+third_game,Resident Evil 2,39.99,
+third_game,Resident Evil 3,39.99,
+third_game,Monster Hunter Wilds,69.99,
+third_game,Monster Hunter Rise,39.99,
+third_game,Final Fantasy VII Rebirth,69.99,
+third_game,Final Fantasy XVI,49.99,included in ps+
+third_game,Dragon Ball: Sparking! ZERO,69.99,
+third_game,Tekken 8,69.99,
+third_game,Mortal Kombat 1,69.99,
+third_game,Street Fighter 6,59.99,
+third_game,EA Sports FC 26,69.99,
+third_game,NBA 2K26,69.99,
+third_game,WWE 2K26,69.99,included in ps+
+third_game,Call of Duty: Black Ops 6,69.99,
+third_game,Call of Duty: Modern Warfare III,69.99,
+third_game,Battlefield 6,69.99,
+third_game,DOOM Eternal,39.99,
+third_game,DOOM The Dark Ages,69.99,
+third_game,The Elder Scrolls IV: Oblivion Remastered,49.99,
+third_game,Diablo IV,69.99,
+third_game,Baldur's Gate 3,69.99,
+third_game,Kingdom Come: Deliverance II,69.99,included in ps+
+third_game,Star Wars Outlaws,69.99,included in ps+
+third_game,Avatar: Frontiers of Pandora,69.99,included in ps+
+third_game,Dying Light 2 Stay Human,59.99,included in ps+
+third_game,Dead Island 2,49.99,
+third_game,Sonic Frontiers,59.99,
+third_game,LEGO Star Wars: The Skywalker Saga,59.99,
+third_game,A Plague Tale: Requiem,49.99,
+third_game,Metro Exodus,29.99,included in ps+
+third_game,Control,29.99,
+third_game,Alan Wake 2,59.99,
+third_game,Lies of P,59.99,
+third_game,Black Myth: Wukong,59.99,
+third_game,Like a Dragon: Infinite Wealth,69.99,
+third_game,Yakuza: Like a Dragon,59.99,
+third_game,Persona 5 Royal,59.99,
+third_game,NieR:Automata,39.99,
+third_game,The Witcher 3: Wild Hunt,39.99,
+playstation_plus,extra_month,16.99,
+playstation_plus,extra_3month,43.99,
+playstation_plus,extra_year,134.99,
+playstation_plus,essential_month, 0.99,
+playstation_plus,essential_3month, 7.99,
+playstation_plus,essential_year,79.99,
+playstation_plus,deluxe_month,19.99,
+playstation_plus,deluxe_3month,54.99,
+playstation_plus,deluxe_year,159.99,
